@@ -37,12 +37,12 @@ ATCGTA
   ```json
   {
       "dna": [
-          "ATGCGA",
-          "CAGTGC",
-          "TTATGT",
-          "AGAAGG",
-          "CCCCTA",
-          "TCACTG"
+   "ATGCGA",
+    "CAGTGC",
+    "TTATGT",
+    "AGAAGG",
+    "CCCCTA",
+    "TCACTG"
       ]
   }
   ```
