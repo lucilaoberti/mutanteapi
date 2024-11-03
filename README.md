@@ -1,6 +1,6 @@
 # Parcial Magneto - Sistema de Detección de Mutantes
 
-## Introducción
+
 
 Este proyecto implementa un programa que analiza secuencias de ADN y determina si un humano es mutante. La detección se realiza mediante un método que identifica patrones específicos en una matriz de ADN.
 
