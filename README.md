@@ -90,5 +90,11 @@ Verifica si la secuencia de ADN ingresada pertenece a un mutante.
 #### `GET /stats`
 Devuelve estadísticas de las verificaciones de ADN realizadas hasta el momento, incluyendo el conteo de ADN mutante y no mutante, así como el ratio entre ambos.
 
-El proyecto incluye pruebas unitarias que validan todos los posibles patrones de detección de secuencias en filas, columnas y diagonales. Estas pruebas garantizan el correcto funcionamiento del algoritmo y la precisión en la identificación de ADN mutante.
+## Pruebas
 
+- **Pruebas unitarias y de integración**: Ejecutar `mvn test`.
+- **Pruebas de carga**: Utilizar **JMeter** para simular tráfico masivo y verificar el rendimiento del sistema. Pruebas simuladas en documentación
+
+
+## Documentación
+- Documentos adicionales en formato PDF : https://drive.google.com/drive/folders/1vAciHH5qIIvlRWIxSkLNTlTs42XxT-tf?usp=drive_link
