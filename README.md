@@ -90,14 +90,5 @@ Verifica si la secuencia de ADN ingresada pertenece a un mutante.
 #### `GET /stats`
 Devuelve estadísticas de las verificaciones de ADN realizadas hasta el momento, incluyendo el conteo de ADN mutante y no mutante, así como el ratio entre ambos.
 
-- **Ejemplo de respuesta**:
-  ```json
-  {
-      "count_mutant_dna": 40,
-      "count_human_dna": 100,
-      "ratio": 0.4
-  }
-  ```
-
 El proyecto incluye pruebas unitarias que validan todos los posibles patrones de detección de secuencias en filas, columnas y diagonales. Estas pruebas garantizan el correcto funcionamiento del algoritmo y la precisión en la identificación de ADN mutante.
 
