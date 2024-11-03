@@ -67,7 +67,7 @@ Este proyecto está disponible como una API REST hosteada en [Render](https://mu
 
 ### Endpoints Disponibles
 
-#### `POST /mutant`
+#### `POST api/v1/human`
 Verifica si la secuencia de ADN ingresada pertenece a un mutante.
 
 - **Formato de solicitud**:
